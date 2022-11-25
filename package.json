@@ -1,7 +1,7 @@
 {
   "name": "rf-new",
   "version": "0.1.0",
-  "homepage": "laptimer.fun",
+  "homepage": "https://laptimer.fun",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.4.1",

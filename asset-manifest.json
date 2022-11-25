@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/laptimer.fun/static/css/main.1a8a6a76.css",
-    "main.js": "/laptimer.fun/static/js/main.01681e16.js",
-    "static/js/787.7b6b349e.chunk.js": "/laptimer.fun/static/js/787.7b6b349e.chunk.js",
-    "static/media/mountains.svg": "/laptimer.fun/static/media/mountains.bb69173858ac625725ad5aee3dc40e78.svg",
-    "index.html": "/laptimer.fun/index.html",
-    "main.1a8a6a76.css.map": "/laptimer.fun/static/css/main.1a8a6a76.css.map",
-    "main.01681e16.js.map": "/laptimer.fun/static/js/main.01681e16.js.map",
-    "787.7b6b349e.chunk.js.map": "/laptimer.fun/static/js/787.7b6b349e.chunk.js.map"
+    "main.css": "/static/css/main.1a8a6a76.css",
+    "main.js": "/static/js/main.8acd51f6.js",
+    "static/js/787.7b6b349e.chunk.js": "/static/js/787.7b6b349e.chunk.js",
+    "static/media/mountains.svg": "/static/media/mountains.bb69173858ac625725ad5aee3dc40e78.svg",
+    "index.html": "/index.html",
+    "main.1a8a6a76.css.map": "/static/css/main.1a8a6a76.css.map",
+    "main.8acd51f6.js.map": "/static/js/main.8acd51f6.js.map",
+    "787.7b6b349e.chunk.js.map": "/static/js/787.7b6b349e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1a8a6a76.css",
-    "static/js/main.01681e16.js"
+    "static/js/main.8acd51f6.js"
   ]
 }

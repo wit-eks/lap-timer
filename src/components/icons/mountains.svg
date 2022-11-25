@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+
+   <symbol id="icon-mountain-arrow-down" viewBox="0 0 140 112">
+      <path style="fill:none;stroke:#000000;stroke-width:10.58333302;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 134.66744,5.3552774 70.000003,106.70885 5.3325462,5.3552774"/>
+      <path style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:10.58333015;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 101.2419,20.863374 69.89763,70.26499 38.553364,20.863374 Z"/>
+   </symbol>
+
+   <symbol id="icon-mountain-arrow-up" viewBox="0 0 56.783886 44.913006">
+      <path style="fill:none;stroke:#000000;stroke-width:4.36499977;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 2.1995217,42.540014 28.391944,2.1823156 54.584365,42.540014" />
+      <path style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.16499996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 10.581093,43.830506 17.810851,-27.44326 17.810871,27.44326 z" />
+   </symbol>
+
+   <symbol id="icon-mountain-race-group" viewBox="0 0 115.6718 80.953178">
+      <path style="fill:none;stroke:#000000;stroke-width:5.29166651;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 2.6835165,78.275609 48.6798565,-75.63 48.679857,75.63"/>
+      <path style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.64583325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 16.230766,79.533929 31.83621,-49.38622 31.890483,49.38622" />
+      <path style="fill:#fffeff;fill-opacity:1;stroke:#000000;stroke-width:5.29166651;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 36.270251,78.275609 38.338228,-59.61004 38.379801,59.61004" />
+      <path style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.64583325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 50.347675,78.275609 19.582574,-30.35415 19.46459,30.35415" />
+      <path style="fill:none;stroke:#000000;stroke-width:5.29166651;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 2.6835165,78.275609 H 112.98828"/>
+   </symbol>
+
+   <symbol id="icon-mountain-race" viewBox="0 0 82.085061 64.93322">
+      <path d="M 2.6835165,62.25565 41.021745,2.6456105 79.401546,62.25565" style="fill:#fffeff;fill-opacity:1;stroke:#000000;stroke-width:5.29166651;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path d="m 24.625424,61.311912 19.582574,-30.35415 19.46459,30.35415" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.64583325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path d="M 2.6835165,62.25565 H 79.401546" style="fill:none;stroke:#000000;stroke-width:5.29166651;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+   </symbol>
+</svg>

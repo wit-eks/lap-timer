@@ -1,0 +1,344 @@
+[
+    {
+        "name": "Bieg Ultra Grania Tatr",
+        "editionName": "IV Flexistav Bieg \"Granią Tatr\" 2019",
+        "editionNumber": 4,
+        "date":"2019-08-16",
+        "year": 2019,
+        "distanceKm": 71.0,
+        "distance": 71000,
+        "limit":1050,
+        "initialFinishTime": 850,
+        "elevationGain": 5000,
+        "elevationLoss": 4950,
+        "checkPointDetails":[
+            {
+                "name":"Ornak",
+                "fullName": "Schronisko na Hali Ornak",
+                "distance": 26400,
+                "limit": 390,
+                "_finisherCoeficientRegression": 3.1055785492419865,
+                "finisherCoeficientRegression": 3.1056
+            },
+            {
+                "name":"Murowaniec",
+                "fullName": "Schronisko Murowaniec",
+                "distance": 42400,
+                "limit": 600,
+                "_finisherCoeficientRegression": 1.7511041858341019,
+                "finisherCoeficientRegression": 1.7511
+            },
+            {
+                "name":"Wodogrzmoty",
+                "fullName":"Wodogrzmoty Mickiewicza",
+                "distance": 56100,
+                "limit": 840,
+                "_finisherCoeficientRegression": 1.2285853586106557,
+                "finisherCoeficientRegression": 1.2286
+
+            },
+            {
+                "name":"Meta",
+                "fullName":"Meta",
+                "distance": 71000,
+                "limit": 1050,
+                "_finisherCoeficientRegression": 1.0,
+                "finisherCoeficientRegression": 1.0
+            }
+        ]
+    },
+    {
+        "name": "Bieg Ultra Grania Tatr",
+        "editionName": "III Flexistav \"Bieg Granią\" Tatr 2017",
+        "editionNumber": 3,
+        "date":"2017-08-19",
+        "year": 2017,
+        "distanceKm": 71.0,
+        "distance": 71000,
+        "limit":1050,
+        "initialFinishTime": 950,
+        "elevationGain": 5000,
+        "elevationLoss": 4950,
+        "checkPointDetails":[
+            {
+                "name":"Ornak",
+                "fullName":"Schronisko na Hali Ornak",
+                "distance": 26400,
+                "limit": 390,
+                "_finisherCoeficientRegression": 3.2050652195479308,
+                "finisherCoeficientRegression": 3.2050
+            },
+            {
+                "name":"Murowaniec",
+                "fullName":"Schronisko Murowaniec",
+                "distance": 42400,
+                "limit": 600,
+                "_finisherCoeficientRegression": 1.797047851930099,
+                "finisherCoeficientRegression": 1.7970
+            },
+            {
+                "name":"Wodogrzmoty",
+                "fullName":"Wodogrzmoty Mickiewicza",
+                "distance": 56100,
+                "limit": 840,
+                "_finisherCoeficientRegression": 1.2436255525682052,
+                "finisherCoeficientRegression": 1.2436
+            },
+            {
+                "name":"Meta",
+                "fullName":"Meta",
+                "distance": 71000,
+                "limit": 1050,
+                "_finisherCoeficientRegression": 1.0,
+                "finisherCoeficientRegression": 1.0
+            }
+        ]
+    },
+
+
+    {
+        "name": "a Temp BUGT",
+        "editionName": "IV Flexistav Bieg \"Granią Tatr\" 2019",
+        "editionNumber": 4,
+        "date":"2019-08-16",
+        "year": 2019,
+        "distanceKm": 71.0,
+        "distance": 71000,
+        "limit":1050,
+        "initialFinishTime": 800,
+        "elevationGain": 5000,
+        "elevationLoss": 4950,
+        "checkPointDetails":[
+            {
+                "name":"Temp Ornak",
+                "fullName": "Schronisko na Hali Ornak",
+                "distance": 26400,
+                "limit": 390,
+                "_finisherCoeficientRegression": 3.1055785492419865,
+                "finisherCoeficientRegression": 3.1056
+            },
+            {
+                "name":"Temp Murowaniec",
+                "fullName": "Schronisko Murowaniec",
+                "distance": 42400,
+                "limit": 600,
+                "_finisherCoeficientRegression": 1.7511041858341019,
+                "finisherCoeficientRegression": 1.7511
+            },
+            {
+                "name":"Temp Wodogrzmoty",
+                "fullName":"Wodogrzmoty Mickiewicza",
+                "distance": 56100,
+                "limit": 840,
+                "_finisherCoeficientRegression": 1.2285853586106557,
+                "finisherCoeficientRegression": 1.2286
+
+            },
+            {
+                "name":"Temp Psia Trafka",
+                "fullName":"Psia Trafka",
+                "distance": 66100,
+                "limit": 900,
+                "_finisherCoeficientRegression": 1.11,
+                "finisherCoeficientRegression": 1.11
+            },
+            {
+                "name":"Temp Meta",
+                "fullName":"Meta",
+                "distance": 71000,
+                "limit": 1050,
+                "_finisherCoeficientRegression": 1.0,
+                "finisherCoeficientRegression": 1.0
+            }
+        ]
+    },
+    {
+        "name": "a Temp BUGT",
+        "editionName": "III Flexistav \"Bieg Granią\" Tatr 2017",
+        "editionNumber": 3,
+        "date":"2017-08-19",
+        "year": 2017,
+        "distanceKm": 71.0,
+        "distance": 71000,
+        "limit":1050,
+        "elevationGain": 5000,
+        "elevationLoss": 4950,
+        "initialFinishTime": 900,
+        "checkPointDetails":[
+            {
+                "name":"Temp Ornak",
+                "fullName":"Schronisko na Hali Ornak",
+                "distance": 26400,
+                "limit": 390,
+                "_finisherCoeficientRegression": 3.2050652195479308,
+                "finisherCoeficientRegression": 3.2050
+            },
+            {
+                "name":"Temp Murowaniec",
+                "fullName":"Schronisko Murowaniec",
+                "distance": 42400,
+                "limit": 600,
+                "_finisherCoeficientRegression": 1.797047851930099,
+                "finisherCoeficientRegression": 1.7970
+            },
+            {
+                "name":"Temp Wodogrzmoty",
+                "fullName":"Wodogrzmoty Mickiewicza",
+                "distance": 56100,
+                "limit": 840,
+                "_finisherCoeficientRegression": 1.2285853586106557,
+                "finisherCoeficientRegression": 1.2286
+
+            },
+            {
+                "name":"Temp Psia Trafka",
+                "fullName":"Psia Trafka",
+                "distance": 66100,
+                "limit": 900,
+                "_finisherCoeficientRegression": 1.11,
+                "finisherCoeficientRegression": 1.11
+            },
+            {
+                "name":"Temp Meta",
+                "fullName":"Meta",
+                "distance": 71000,
+                "limit": 1050,
+                "_finisherCoeficientRegression": 1.0,
+                "finisherCoeficientRegression": 1.0
+            }
+        ]
+    },
+    {
+        "name": "MIUT 115",
+        "editionName": "MIUT 115 in 2019",
+        "editionNumber": 3,
+        "date":"2019-01-01",
+        "year": 2019,
+        "distanceKm": 116.0,
+        "distance": 116000,
+        "limit":1920,
+        "elevationGain": 7090,
+        "elevationLoss": 7100,
+        "initialFinishTime": 1020,
+        "checkPointDetails":[
+            {
+                "name":"Fanal",
+                "fullName":"Fanal",
+                "distance": 14500,
+                "limit": 600,
+                "_finisherCoeficientRegression": 9.95692246958855,
+                "finisherCoeficientRegression": 9.9569
+            },
+            {
+                "name":"C. Ribeira",
+                "fullName":"Chao da Ribeira",
+                "distance": 21700,
+                "limit": 700,
+                "_finisherCoeficientRegression": 6.698523337562267,
+                "finisherCoeficientRegression": 6.6985
+            },
+            {
+                "name":"Estanquinhos",
+                "fullName":"Estanquinhos",
+                "distance": 32500,
+                "limit": 800,
+                "_finisherCoeficientRegression": 4.025007585948617,
+                "finisherCoeficientRegression": 4.0250
+
+            },
+            {
+                "name":"Rosario",
+                "fullName":"Rosario",
+                "distance": 40800,
+                "limit": 900,
+                "_finisherCoeficientRegression": 3.2989219988036806,
+                "finisherCoeficientRegression": 3.2989
+            },
+            {
+                "name":"Encumeada",
+                "fullName":"Encumeada",
+                "distance": 47000,
+                "limit": 1000,
+                "_finisherCoeficientRegression": 2.8146924113766443,
+                "finisherCoeficientRegression": 2.8147
+            },
+            {
+                "name":"C. Freiras",
+                "fullName":"Curral das Freiras",
+                "distance": 61000,
+                "limit": 1100,
+                "_finisherCoeficientRegression": 2.078459263045822,
+                "finisherCoeficientRegression": 2.0785
+            },
+            {
+                "name":"P. Ruivo",
+                "fullName":"Casa do Pico Ruivo",
+                "distance": 71500,
+                "limit": 1200,
+                "_finisherCoeficientRegression": 1.6120277125233085,
+                "finisherCoeficientRegression": 1.6120
+            },
+            {
+                "name":"P. Areeiro",
+                "fullName":"Pico do Areeiro",
+                "distance": 77100,
+                "limit": 1300,
+                "_finisherCoeficientRegression": 1.4683156749720772,
+                "finisherCoeficientRegression": 1.4683
+            },
+            {
+                "name":"C. Lagoa",
+                "fullName":"Chao da Lagoa",
+                "distance": 80900,
+                "limit": 1400,
+                "_finisherCoeficientRegression": 1.40739725559248,
+                "finisherCoeficientRegression": 1.4074
+            },
+            {
+                "name":"R. Frio",
+                "fullName":"Ribeiro Frio",
+                "distance": 86800,
+                "limit": 1500,
+                "_finisherCoeficientRegression": 1.3078921180811458,
+                "finisherCoeficientRegression": 1.3079
+            },
+            {
+                "name":"Poiso",
+                "fullName":"Poiso",
+                "distance": 90400,
+                "limit": 1600,
+                "_finisherCoeficientRegression": 1.2406483679228903,
+                "finisherCoeficientRegression": 1.2406
+            },
+            {
+                "name":"Portela",
+                "fullName":"Portela",
+                "distance": 98900,
+                "limit": 1800,
+                "_finisherCoeficientRegression": 1.1489355826864653,
+                "finisherCoeficientRegression": 1.1489
+            },
+            {
+                "name":"Larano",
+                "fullName":"Larano",
+                "distance": 103900,
+                "limit": 1880,
+                "_finisherCoeficientRegression": 1.091811323380447,
+                "finisherCoeficientRegression": 1.0918
+            },
+            {
+                "name":"Meta Machico",
+                "fullName":"Machico",
+                "distance": 115700,
+                "limit": 1920,
+                "_finisherCoeficientRegression": 1.0,
+                "finisherCoeficientRegression": 1.0
+            }
+
+        ]
+    }
+
+
+
+]
+

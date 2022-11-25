@@ -1,7 +1,7 @@
 {
   "name": "rf-new",
   "version": "0.1.0",
-  "homepage": "https://wit-eks.github.io/lap-timer/",
+  "homepage": "https://wit-eks.github.io/lap-timer",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.4.1",
